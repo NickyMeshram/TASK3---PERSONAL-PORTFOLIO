@@ -40,4 +40,7 @@ Open the file named index.html in any browser
 For development, open it using Live Server in Visual Studio Code (optional)
 
 OUPUT:
+<img width="1470" height="840" alt="Image" src="https://github.com/user-attachments/assets/a30d16a1-3f62-4125-969b-9ea83d564ee4" />
+<img width="1470" height="808" alt="Image" src="https://github.com/user-attachments/assets/5dd9e67b-8abc-4bf1-a466-2f4985b26244" />
+
 
